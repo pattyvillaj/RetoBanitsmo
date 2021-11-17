@@ -1,6 +1,8 @@
 # RetoBanitsmo
 
-##comandos para utilizar el proyecto
+proyecto reto para ingreso a banitsmo desarollo mediante framework de screenplay mapeo de objetos de la interfaz
+
+## comandos para utilizar el proyecto
 
 #### comandos git
 > git clone https://github.com/pattyvillaj/RetoBanitsmo.git
@@ -16,4 +18,8 @@
 #### ejecutar el proyecto
 > gradle clean test
 
-el escenario planteado se desarollo mediante framework de screenplay mapeo de objetos de la interfaz
+
+### paso a paso desarrollo de la prueba
+reporte generado
+![reporte](img/Captura.PNG)
+
